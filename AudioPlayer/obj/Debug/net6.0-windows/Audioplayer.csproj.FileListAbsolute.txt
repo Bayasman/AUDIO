@@ -1,0 +1,112 @@
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.exe
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.deps.json
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.runtimeconfig.json
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.dll
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.pdb
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.csproj.AssemblyReference.cache
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\App.g.cs
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer_MarkupCompile.cache
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer_MarkupCompile.lref
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\App.baml
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\MainWindow.baml
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.g.resources
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.AssemblyInfoInputs.cache
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.AssemblyInfo.cs
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.csproj.CoreCompileInputs.cache
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.csproj.CopyComplete
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.dll
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\refint\Audioplayer.dll
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.pdb
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.genruntimeconfig.cache
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\obj\Debug\net6.0-windows\ref\Audioplayer.dll
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+D:\2 курс\c#\Приложения\Audioplayer\Audioplayer\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.exe
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.deps.json
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.runtimeconfig.json
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.dll
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.pdb
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.csproj.AssemblyReference.cache
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer_MarkupCompile.cache
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer_MarkupCompile.lref
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\App.baml
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.g.resources
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.AssemblyInfoInputs.cache
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.AssemblyInfo.cs
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.csproj.CoreCompileInputs.cache
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.csproj.CopyComplete
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.dll
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\refint\Audioplayer.dll
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.pdb
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.genruntimeconfig.cache
+C:\Users\kudaj\Source\Repos\AudioPlayer\Audioplayer\obj\Debug\net6.0-windows\ref\Audioplayer.dll
+C:\Users\kudaj\source\repos\Audio\Audio\bin\Debug\net6.0-windows\Audioplayer.exe
+C:\Users\kudaj\source\repos\Audio\Audio\bin\Debug\net6.0-windows\Audioplayer.deps.json
+C:\Users\kudaj\source\repos\Audio\Audio\bin\Debug\net6.0-windows\Audioplayer.runtimeconfig.json
+C:\Users\kudaj\source\repos\Audio\Audio\bin\Debug\net6.0-windows\Audioplayer.dll
+C:\Users\kudaj\source\repos\Audio\Audio\bin\Debug\net6.0-windows\Audioplayer.pdb
+C:\Users\kudaj\source\repos\Audio\Audio\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\kudaj\source\repos\Audio\Audio\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\kudaj\source\repos\Audio\Audio\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\kudaj\source\repos\Audio\Audio\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\kudaj\source\repos\Audio\Audio\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer.csproj.AssemblyReference.cache
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer_MarkupCompile.cache
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer_MarkupCompile.lref
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\App.baml
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer.g.resources
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer.AssemblyInfoInputs.cache
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer.AssemblyInfo.cs
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer.csproj.CoreCompileInputs.cache
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer.csproj.CopyComplete
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer.dll
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\refint\Audioplayer.dll
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer.pdb
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\Audioplayer.genruntimeconfig.cache
+C:\Users\kudaj\source\repos\Audio\Audio\obj\Debug\net6.0-windows\ref\Audioplayer.dll
+C:\Users\kudaj\source\repos\audio\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.exe
+C:\Users\kudaj\source\repos\audio\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.deps.json
+C:\Users\kudaj\source\repos\audio\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.runtimeconfig.json
+C:\Users\kudaj\source\repos\audio\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.dll
+C:\Users\kudaj\source\repos\audio\Audioplayer\bin\Debug\net6.0-windows\Audioplayer.pdb
+C:\Users\kudaj\source\repos\audio\Audioplayer\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\kudaj\source\repos\audio\Audioplayer\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\kudaj\source\repos\audio\Audioplayer\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\kudaj\source\repos\audio\Audioplayer\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\kudaj\source\repos\audio\Audioplayer\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.csproj.AssemblyReference.cache
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer_MarkupCompile.cache
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer_MarkupCompile.lref
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\App.baml
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.g.resources
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.AssemblyInfoInputs.cache
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.AssemblyInfo.cs
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.csproj.CoreCompileInputs.cache
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.csproj.CopyComplete
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.dll
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\refint\Audioplayer.dll
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.pdb
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\Audioplayer.genruntimeconfig.cache
+C:\Users\kudaj\source\repos\audio\Audioplayer\obj\Debug\net6.0-windows\ref\Audioplayer.dll
